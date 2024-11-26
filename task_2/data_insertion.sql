@@ -663,13 +663,13 @@ INSERT INTO individual_lesson (lesson_id, instrument_type_id) VALUES
 
 
 INSERT INTO ensemble_lesson (lesson_id, genre, maximum_student, minimum_student) VALUES
-(1, 'Jazz', 10, 5),
-(2, 'Classical', 8, 4),
-(3, 'Rock', 12, 6),
-(4, 'Pop', 15, 10),
-(5, 'Folk', 10, 5),
-(6, 'Blues', 8, 4),
-(7, 'Reggae', 12, 6);
+(1, 'Jazz', 5, 2),
+(2, 'Classical', 6, 4),
+(3, 'Rock', 7, 4),
+(4, 'Pop', 5, 2),
+(5, 'Folk', 6, 5),
+(6, 'Blues', 6, 4),
+(7, 'Reggae', 5, 1);
 
 
 
