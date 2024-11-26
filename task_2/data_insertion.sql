@@ -667,7 +667,7 @@ INSERT INTO ensemble_lesson (lesson_id, genre, maximum_student, minimum_student)
 (2, 'Classical', 6, 4),
 (3, 'Rock', 7, 4),
 (4, 'Pop', 5, 2),
-(5, 'Folk', 6, 5),
+(5, 'Folk', 8, 5),
 (6, 'Blues', 6, 4),
 (7, 'Reggae', 5, 1);
 
